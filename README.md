@@ -31,6 +31,7 @@ I'm open to collaboration and discussion. Feel free to reach out:
 - **Email:** [blog@0xd33r.com](mailto:blog@0xd33r.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - **Twitter:** [@0xd33r](https://x.com/0xd33r)
+- **Blog**: [https://0xd33r.com](https://0xd33r.com)
 
 ---
 
