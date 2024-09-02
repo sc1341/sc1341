@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! My name is **Stephen (D33r)**, and I'm a **Senior Offensive Security Consultant** with a focus on enterprise networking, OS internals, and penetration testing. I operate Autonomous System **AS40924**, where I announce my IPv4 space with BGP, hosting my research, projects, and software development.
+Hello! My name is **Stephen (D33r)**, and I'm a **Senior Offensive Security Consultant** with a focus on enterprise networking, cryptography, OS internals, and penetration testing. I operate Autonomous System **AS40924**, where I announce my IPv4 space with BGP, hosting my research, projects, and software development.
 
 ## My Expertise
 
