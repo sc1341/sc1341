@@ -15,15 +15,10 @@ My mission is to leverage my expertise to contribute to and influence the cybers
 
 ## Certifications
 
-- **OSCP** - Offensive Security Certified Professional
-- **OSEP** - Offensive Security Experienced Penetration Tester
-- **OSWP** - Offensive Security Wireless Professional
-- **Security+** - CompTIA Security+
-- **Network+** - CompTIA Network+
-- **CySA+** - CompTIA Cybersecurity Analyst
-- **Pentest+** - CompTIA PenTest+
-- **Linux+** - CompTIA Linux+
-- **PCAP** - Python Certified Associate Programmer
+- **Offensive Security:** OSCP, OSEP, OSWP
+- **CompTIA:** Security+, Network+, CySA+, Pentest+, Linux+
+- **Programming:** PCAP (Python Certified Associate Programmer)
+
 
 ## Projects & Research
 
