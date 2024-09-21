@@ -14,6 +14,7 @@ Hello! My name is **Stephen (D33r)**, and I'm a **Senior Offensive Security Cons
 ## Certifications
 
 - **Offensive Security:** OSCP, OSEP, OSWP
+- **Zero-Point Security:** Certified Red Team Operator (CRTO)
 - **CompTIA:** Security+, Network+, CySA+, Pentest+, Linux+
 - **Programming:** PCAP (Python Certified Associate Programmer)
 
