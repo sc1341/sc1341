@@ -1,16 +1,43 @@
-## Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-<!--
-**sc1341/sc1341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! My name is Stephen (`d33r`), and I'm a Senior Red Team Consultant with a focus on enterprise networking, offensive security, red teaming, and purple teaming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include cryptography, OS internals, OSINT, infrastructure engineering, and home labbing. I also operate networking infrastructure and maintain my own ASN.
+
+---
+
+## Areas of Focus
+
+- Enterprise Networking
+- Red Teaming & Adversary Simulation
+- Purple Teaming
+- Penetration Testing
+- Operating System Internals
+- Cryptography
+- OSINT
+- Infrastructure & Self-Hosting
+
+---
+
+## Certifications
+
+- Offsec: OSCP, OSEP, OSWP
+- Zero-Point Security: CRTO
+- CompTIA: Security+, Network+, CySA+, Pentest+, Linux+
+- Programming: PCAP (Python Certified Associate Programmer)
+
+---
+
+## Get in Touch
+
+I'm always open to collaboration, discussions, and networking.
+
+- Email: blog@0xd33r.com
+- Blog: https://0xd33r.com
+
+---
+
+
+> The opinions, research, and projects published here are my own and do not necessarily reflect the views of my employer or affiliated organizations.
